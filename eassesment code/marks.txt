@@ -1,0 +1,7 @@
+areeb,80.0
+asaad,60.0
+areeb,20.0
+areeb,20.0
+ahmad,20.0
+taj,20.0
+azam,60.0
