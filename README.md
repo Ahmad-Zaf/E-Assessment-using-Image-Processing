@@ -36,21 +36,22 @@ Generates a score report and highlights correct/incorrect answers.
 ✔️ Instant score calculation
 ✔️ Visual feedback on mistakes
 
-## 📸 Screenshots  
+📸 Screenshots  
 
 ### Login Page  
-![Login Page](eassessment code/asset/loginPage.png)  
+![Login Page](eassessment%20code/asset/loginPage.png)  
 
-### Upload MCQ sheet 
-![Upload MCQ sheet](eassessment code/asset/Upload MCQ sheet.png)  
+### Upload MCQ Sheet  
+![Upload MCQ sheet](eassessment%20code/asset/Upload%20MCQ%20sheet.png)  
 
-### Compare Answers 
-![Compare Answers](eassessment code/asset/Compare Answers.png)  
+### Compare Answers  
+![Compare Answers](eassessment%20code/asset/Compare%20Answers.png)  
 
 ### Mark Graph  
-![Mark Graph](eassessment code/asset/Mark Graph.png)  
+![Mark Graph](eassessment%20code/asset/Mark%20Graph.png)  
 
-### Enter Student Name 
-![Enter Student Name](eassessment code/asset/Enter Student Name.png)    
+### Enter Student Name  
+![Enter Student Name](eassessment%20code/asset/Enter%20Student%20Name.png)  
+   
 
 
