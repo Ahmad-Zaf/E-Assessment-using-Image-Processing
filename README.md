@@ -1,4 +1,4 @@
-🔍 Overview
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6d2033b-9950-4dc3-8566-e667d3177961" />🔍 Overview
 
 An automated assessment system that evaluates answer sheets using image processing techniques. This project eliminates manual checking, reduces errors, and provides faster and more reliable results.
 
@@ -42,16 +42,16 @@ Generates a score report and highlights correct/incorrect answers.
 ![Login Page](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/LoginPage.png)
 
 ### Upload MCQ Sheet  
-![Upload MCQ sheet](eassessment%20code/asset/Upload%20MCQ%20sheet.png)  
+![Upload MCQ sheet](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/Upload%20MCQ%20sheet.png?raw=true)  
 
 ### Compare Answers  
-![Compare Answers](eassessment%20code/asset/Compare%20Answers.png)  
+![Compare Answers](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/Compare%20Answers.png?raw=true)  
 
 ### Mark Graph  
-![Mark Graph](eassessment%20code/asset/Mark%20Graph.png)  
+![Mark Graph](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/Mark%20graph.png?raw=true)  
 
 ### Enter Student Name  
-![Enter Student Name](eassessment%20code/asset/Enter%20Student%20Name.png)  
+![Enter Student Name](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/Enter%20Student%20Name.png?raw=true)  
    
 
 
