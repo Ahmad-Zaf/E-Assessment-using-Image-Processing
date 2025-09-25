@@ -36,3 +36,22 @@ Generates a score report and highlights correct/incorrect answers.
 ✔️ Instant score calculation
 ✔️ Visual feedback on mistakes
 
+## 📸 Screenshots  
+
+### Login Page  
+![Login Page](asset/loginPage.png)  
+
+### Upload MCQ sheet 
+![Processed Output](images/output.png)  
+
+### Compare Answers 
+![Score Report](images/result.png)
+
+### Mark Graph  
+![Input Sheet](images/input.png)  
+
+### Enter Student Name 
+![Processed Output](images/output.png)  
+
+### Score Report  
+![Score Report](images/result.png)
