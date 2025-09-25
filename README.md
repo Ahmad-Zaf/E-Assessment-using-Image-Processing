@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6d2033b-9950-4dc3-8566-e667d3177961" />🔍 Overview
+Overview
 
 An automated assessment system that evaluates answer sheets using image processing techniques. This project eliminates manual checking, reduces errors, and provides faster and more reliable results.
 
@@ -36,7 +36,7 @@ Generates a score report and highlights correct/incorrect answers.
 ✔️ Instant score calculation
 ✔️ Visual feedback on mistakes
 
-📸 Screenshots  
+5) Screenshots  
 
 ### Login Page  
 ![Login Page](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/LoginPage.png)
