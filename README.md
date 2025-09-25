@@ -39,7 +39,7 @@ Generates a score report and highlights correct/incorrect answers.
 📸 Screenshots  
 
 ### Login Page  
-![Login Page]([eassessment%20code/asset/loginPage.png](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/LoginPage.png?raw=true))  
+![Login Page](https://github.com/Ahmad-Zaf/E-Assessment-using-Image-Processing/blob/main/eassesment%20code/Asset/LoginPage.png)
 
 ### Upload MCQ Sheet  
 ![Upload MCQ sheet](eassessment%20code/asset/Upload%20MCQ%20sheet.png)  
