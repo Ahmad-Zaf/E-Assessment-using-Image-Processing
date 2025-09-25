@@ -39,19 +39,18 @@ Generates a score report and highlights correct/incorrect answers.
 ## 📸 Screenshots  
 
 ### Login Page  
-![Login Page](asset/loginPage.png)  
+![Login Page](eassessment code/asset/loginPage.png)  
 
 ### Upload MCQ sheet 
-![Processed Output](images/output.png)  
+![Upload MCQ sheet](eassessment code/asset/Upload MCQ sheet.png)  
 
 ### Compare Answers 
-![Score Report](images/result.png)
+![Compare Answers](eassessment code/asset/Compare Answers.png)  
 
 ### Mark Graph  
-![Input Sheet](images/input.png)  
+![Mark Graph](eassessment code/asset/Mark Graph.png)  
 
 ### Enter Student Name 
-![Processed Output](images/output.png)  
+![Enter Student Name](eassessment code/asset/Enter Student Name.png)    
 
-### Score Report  
-![Score Report](images/result.png)
+
